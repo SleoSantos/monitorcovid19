@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SleoSantos/monitorcovid19/static/css/main.353be181.chunk.css",
+    "main.js": "/SleoSantos/monitorcovid19/static/js/main.93d8c1fa.chunk.js",
+    "main.js.map": "/SleoSantos/monitorcovid19/static/js/main.93d8c1fa.chunk.js.map",
+    "runtime-main.js": "/SleoSantos/monitorcovid19/static/js/runtime-main.091c1c1e.js",
+    "runtime-main.js.map": "/SleoSantos/monitorcovid19/static/js/runtime-main.091c1c1e.js.map",
+    "static/js/2.584e6ea6.chunk.js": "/SleoSantos/monitorcovid19/static/js/2.584e6ea6.chunk.js",
+    "static/js/2.584e6ea6.chunk.js.map": "/SleoSantos/monitorcovid19/static/js/2.584e6ea6.chunk.js.map",
+    "index.html": "/SleoSantos/monitorcovid19/index.html",
+    "precache-manifest.eb8604376d5ecd961a958ed987095e1a.js": "/SleoSantos/monitorcovid19/precache-manifest.eb8604376d5ecd961a958ed987095e1a.js",
+    "service-worker.js": "/SleoSantos/monitorcovid19/service-worker.js",
+    "static/css/main.353be181.chunk.css.map": "/SleoSantos/monitorcovid19/static/css/main.353be181.chunk.css.map",
+    "static/js/2.584e6ea6.chunk.js.LICENSE.txt": "/SleoSantos/monitorcovid19/static/js/2.584e6ea6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SleoSantos/monitorcovid19/static/media/logo.913ae9b6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.091c1c1e.js",
+    "static/js/2.584e6ea6.chunk.js",
+    "static/css/main.353be181.chunk.css",
+    "static/js/main.93d8c1fa.chunk.js"
+  ]
+}
